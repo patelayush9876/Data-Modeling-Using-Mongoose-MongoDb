@@ -1,0 +1,19 @@
+{
+  "name": "data-models",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "node",
+    "datamodeling"
+  ],
+  "license": "ISC",
+  "author": "ayush",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
